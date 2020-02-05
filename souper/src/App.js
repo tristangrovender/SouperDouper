@@ -1,7 +1,12 @@
 import React from "react";
+import Souper from "./Souper";
 
 const App = () => {
-    return <div className="App">Souper Douper App</div>;
+    return (
+        <div>
+            <Souper orange="Souper special" monkey="Soup" />
+        </div>
+    );
 };
 
 export default App;
