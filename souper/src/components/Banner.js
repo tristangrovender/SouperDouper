@@ -1,4 +1,5 @@
 import React from "react";
+import { Button } from "semantic-ui-react";
 
 const Banner = () => {
     return (
@@ -13,6 +14,7 @@ const Banner = () => {
                     <a href="#">Sign In</a>
                 </nav>
             </div>
+            <Button content="Blue button!" primary />
         </div>
     );
 };
