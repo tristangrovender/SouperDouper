@@ -1,10 +1,10 @@
 import React from "react";
-import Souper from "./Souper";
+import Banner from "./components/Banner";
 
 const App = () => {
     return (
         <div>
-            <Souper orange="Souper special" monkey="Soup" />
+            <Banner />
         </div>
     );
 };
