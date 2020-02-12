@@ -1,0 +1,77 @@
+.bottom-content {
+    display: flex;
+}
+
+.programs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 33%;
+}
+
+.programs p {
+    padding: 10% 0% 0% 10%;
+}
+
+.programs-image {
+    display: flex;
+    padding-top: 5%;
+    justify-content: center;
+}
+
+.programs-image h3 {
+    display: flex;
+    padding-top: 5%;
+    justify-content: center;
+}
+
+.programs-image p {
+    margin: 0 5%;
+}
+
+.get-involved {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 33%;
+}
+
+.get-involved p {
+    padding: 10% 0% 0% 10%;
+}
+
+.get-involved h3 {
+    display: flex;
+    padding-top: 5%;
+    justify-content: center;
+}
+
+.get-involved p {
+    margin: 0 5%;
+}
+
+.donate {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 33%;
+}
+
+.donate p {
+    padding: 10% 0% 0% 10%;
+}
+
+.donate h3 {
+    display: flex;
+    padding-top: 5%;
+    justify-content: center;
+    margin: 0;
+}
+
+.donate p {
+    margin: 5%;
+}
+
+.donate p a {
+    text-decoration: none;
+}

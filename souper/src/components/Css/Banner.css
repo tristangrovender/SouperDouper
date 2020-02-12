@@ -1,0 +1,35 @@
+/* Navigation/header */
+.header-contents {
+    display: flex;
+    background-color: #edeae6;
+    padding-bottom: 2.5%;
+    padding: 0 20% 0 20%;
+    border-bottom: 2px solid #cf0015;
+}
+
+.header-contents h1 {
+    display: flex;
+    font-size: 4rem;
+}
+
+.header-contents nav {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.header-contents nav a {
+    display: flex;
+    justify-content: center;
+    margin: 0 3% 0 3%;
+    color: #181c16;
+    font-size: 1.8rem;
+    transition: all 0.3s ease-in;
+    text-decoration: none;
+}
+
+.header-contents nav a:hover {
+    color: #cf0015;
+}

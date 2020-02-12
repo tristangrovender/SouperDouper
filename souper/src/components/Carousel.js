@@ -7,7 +7,7 @@ import "./Css/Carousel.css";
 const Carousel = () => {
     return (
         <div className="carousel">
-            <img src={banner} alt="dogs" />
+            <img src={banner} alt="Man cooking soup" />
         </div>
     );
 };

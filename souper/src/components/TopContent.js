@@ -1,8 +1,10 @@
 import React from "react";
 
+import "./Css/TopContent.css";
+
 const TopContent = () => {
     return (
-        <div>
+        <div className="top-content">
             <h2>Our Mission</h2>
             <p>
                 Our mission is simple: to feed people in need regardless of
