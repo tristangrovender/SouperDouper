@@ -45,9 +45,11 @@ const Columns = () => {
                 <h3>Donate</h3>
                 <p>
                     We rely on private donations of food and money to meet the
-                    needs of our guests. Donate <a href="#">online</a>, through{" "}
-                    <a href="#">Pick.Click.Give</a>, or send donations to our{" "}
-                    <a href="#">mailing address</a>.
+                    needs of our guests. Donate{" "}
+                    <a href="http://localhost:3000/">online</a>, through{" "}
+                    <a href="http://localhost:3000/">Pick.Click.Give</a>, or
+                    send donations to our{" "}
+                    <a href="http://localhost:3000/">mailing address</a>.
                 </p>
             </div>
         </div>
