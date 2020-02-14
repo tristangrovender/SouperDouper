@@ -10,13 +10,14 @@
 }
 
 .programs p {
-    padding: 10% 0% 0% 10%;
+    padding: 0% 0% 0% 10%;
+    margin-top: 0px;
 }
 
 .programs-image {
     display: flex;
-    padding-top: 5%;
     justify-content: center;
+    padding-top: 4%;
 }
 
 .programs-image h3 {
@@ -36,6 +37,10 @@
     width: 33%;
 }
 
+.get-involved-image {
+    padding-top: 4%;
+}
+
 .get-involved p {
     padding: 10% 0% 0% 10%;
 }
@@ -44,6 +49,8 @@
     display: flex;
     padding-top: 5%;
     justify-content: center;
+    margin-top: 17px;
+    margin-bottom: 0px;
 }
 
 .get-involved p {
@@ -58,18 +65,16 @@
 }
 
 .donate p {
-    padding: 10% 0% 0% 10%;
+    padding: 10% 0% 0% 5%;
+    margin-top: 0px;
 }
 
 .donate h3 {
     display: flex;
     padding-top: 5%;
     justify-content: center;
-    margin: 0;
-}
-
-.donate p {
-    margin: 5%;
+    margin-top: 15px;
+    margin-bottom: 0px;
 }
 
 .donate p a {
