@@ -5,7 +5,15 @@ const Banner = () => {
     return (
         <div className="header">
             <div className="header-contents">
-                <h1>Souper Douper</h1>
+                <h1>
+                    <a
+                        href="http://localhost:3000/"
+                        style={{ textDecoration: "none" }}
+                    >
+                        Souper Douper
+                    </a>
+                </h1>
+
                 <nav>
                     <a href="http://localhost:3000/">Home</a>
                     <a href="http://localhost:3000/">About Us</a>
